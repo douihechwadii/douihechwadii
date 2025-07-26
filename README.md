@@ -26,4 +26,4 @@
 
 ### 📊 Stats
 
-![Wadii's GitHub stats](https://github-readme-stats.vercel.app/api?username=douihechwadii&show_icons=true&theme=gruvbox)(https://github-readme-stats.vercel.app/api/top-langs/?username=douihechwadii&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Wadii's GitHub stats](https://github-readme-stats.vercel.app/api?username=douihechwadii&show_icons=true&theme=gruvbox)
